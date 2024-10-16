@@ -2,10 +2,12 @@ flask
 requests
 nltk
 numpy
-re
-os
+# re
+# os
 uuid
 librosa
 noisereduce
 bark
 scipy
+webrtcvad
+flask_socketio
